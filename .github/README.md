@@ -1,4 +1,4 @@
-#   TITLE: EMPLOYEE ATTRITION PROJECTx
+#   TITLE: EMPLOYEE ATTRITION PROJECT
 
 #  INTRODUCTION:
 The dataset is taken from Atlas Labs. It contains detailed information about the present as well as former employees of the company. I have used the data to perform analsysis in SQL to find out how certain factors affect the reason why people quit the company. It would help in understanding if there are any patterns in the attrition and if the company can make any changes to better their work environment.
