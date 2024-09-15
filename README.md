@@ -8,9 +8,11 @@ These projects deal with real life problems which I have tried to solve using la
 I have cleaned and organized the data, uncovered patterns and trends, drawn meaningful insights, presented them through various visualization softwares and provided recommendations as solutions to the problem statements.
 
 # Project 1
-Topic: Employee attrition rate
+Topic: _Employee attrition rate_
 
-Tools used: MS Excel and BigQuery
+Tools used: _MS Excel_ and _BigQuery_
 
 # Project 2
-Topic
+Topic: _Electric Vehicles population_ 
+
+Tools used: _Spreadsheets and Tableau Public_
