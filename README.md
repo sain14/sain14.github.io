@@ -16,3 +16,9 @@ Tools used: _MS Excel_ and _BigQuery_
 Topic: _Electric Vehicles population_ 
 
 Tools used: _Spreadsheets and Tableau Public_
+
+# Project 3
+Topic: _Bank Customer Churn model building_
+
+Tools used: *Python* programming language on Google Colab platform
+libraries used are **pandas**, **numPy**, **matplotlib**, **seaborn**, **imblearn**, and **sklearn**
